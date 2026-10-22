@@ -35,6 +35,7 @@ The design explores how human–AI collaborative prompting quality could be meas
 
 | File | Description |
 |------|-------------|
+| `COVER_LETTER.md` | Formal cover letter (PDF-style) |
 | `README.md` | This document – formal gift statement |
 | `CONCEPT.md` | Full game design specification |
 | `SIMULATION_RESULTS.md` | Summary of 100 ultra Monte Carlo runs (militaristic variant) |
