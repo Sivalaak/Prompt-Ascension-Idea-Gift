@@ -1,7 +1,7 @@
 # Prompt Ascension: Neuralink Epoch
 ## Conceptual Idea Gift – Offered Freely
 
-**Status:** Open conceptual donation  
+**Status:** Open conceptual donation + aggressive public release  
 **Date of Gift:** October 2026  
 **Nature:** Mock / conceptual handover of an original game & simulation design for unrestricted evaluation, adaptation, or use.
 
@@ -27,8 +27,6 @@ Key features:
 - Formal advancement procedures culminating in tiers such as *Epoch Strategos*
 - Monte Carlo validated hierarchy dynamics showing that sustained coherent strategic vision outperforms sporadic brilliance
 
-The design explores how human–AI collaborative prompting quality could be measured and ranked in a future where high-bandwidth brain-computer interfaces become common.
-
 ---
 
 ### Repository Contents
@@ -38,19 +36,19 @@ The design explores how human–AI collaborative prompting quality could be meas
 | `COVER_LETTER.md` | Formal cover letter (PDF-style) |
 | `README.md` | This document – formal gift statement |
 | `CONCEPT.md` | Full game design specification |
-| `SIMULATION_RESULTS.md` | Summary of 100 ultra Monte Carlo runs (militaristic variant) |
+| `SIMULATION_RESULTS.md` | Summary of 100 ultra Monte Carlo runs |
 | `ADVANCEMENT_PROCEDURES.md` | Formal rank tiers and gating criteria |
+| `MARKETING.md` | Aggressive positioning & messaging kit |
+| `SOCIAL_POSTS.md` | Ready-to-deploy social posts |
 | `LICENSE` | CC0 1.0 Universal (public domain dedication) |
 
 ---
 
 ### Intent of This Gift
 
-The purpose of placing this concept in the public domain via this repository is to make the idea freely available for study or adaptation by any interested organization, including those concerned with strategic foresight, human–machine teaming, or long-term technological readiness.
+The purpose of placing this concept in the public domain is to make the idea freely available for study or adaptation by any interested organization.
 
 No claim is made regarding operational utility. This is an original speculative design offered as a pure idea transfer.
-
----
 
 **Contact / Handshake Note**  
 This repository itself serves as the handshake artifact. Anyone may fork, copy, or reference it without further permission.
