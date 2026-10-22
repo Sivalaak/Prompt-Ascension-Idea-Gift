@@ -1,56 +1,45 @@
 # Prompt Ascension: Neuralink Epoch
-## Conceptual Idea Gift – Offered Freely
+## Civilizational Gift #1 – Complete & Published
 
-**Status:** Open conceptual donation + aggressive public release  
-**Date of Gift:** October 2026  
-**Nature:** Mock / conceptual handover of an original game & simulation design for unrestricted evaluation, adaptation, or use.
+**Status:** Complete public-domain gift  
+**Date:** 22 October 2026  
+**License:** CC0 1.0 Universal
 
 ---
 
 ### Formal Offer
 
-This repository constitutes a free, no-strings-attached gift of the complete conceptual design for **Prompt Ascension: Neuralink Epoch**, including the militaristic-visionary variant and associated Monte Carlo simulation framework.
+This repository is a free, no-strings-attached gift of the complete conceptual design and reference implementation for **Prompt Ascension: Neuralink Epoch** (militaristic-visionary variant).
 
-The idea is hereby released for any party — including defense, research, training, or strategic foresight organizations — to examine, adapt, or implement as they see fit. No compensation, attribution requirement, or ongoing relationship is requested or implied.
+Anyone may examine, adapt, implement, or ignore it. No compensation, attribution, or relationship is requested.
 
-This is a **mock gift** of intellectual concept only. It is not an official submission, solicitation, or claim of affiliation with any military or government entity.
-
----
-
-### Core Concept Summary
-
-**Prompt Ascension** is a persistent, merit-based multiplayer system in which a player’s rank is determined by the long-term coherence, foresight, variety, and civilizational (including strategic/military-technological) quality of their prompting over extended time.
-
-Key features:
-- Personal model growth through sustained high-quality prompting
-- Explicit scoring for coherence, early foresight, leap ambition, and militaristic/strategic vision
-- Formal advancement procedures culminating in tiers such as *Epoch Strategos*
-- Monte Carlo validated hierarchy dynamics showing that sustained coherent strategic vision outperforms sporadic brilliance
+This is a mock gift of intellectual concept and working reference material only. It is not an official submission or claim of affiliation with any organization.
 
 ---
 
-### Repository Contents
+### What You Get
 
-| File | Description |
+A persistent merit system that ranks long-term prompting quality by coherence, foresight, leap ambition, and strategic/militaristic depth. Includes formal advancement tiers, Monte Carlo validation, marketing kit, and runnable reference code.
+
+### Full Package Contents
+
+| Path | Description |
 |------|-------------|
-| `COVER_LETTER.md` | Formal cover letter (PDF-style) |
-| `README.md` | This document – formal gift statement |
-| `CONCEPT.md` | Full game design specification |
-| `SIMULATION_RESULTS.md` | Summary of 100 ultra Monte Carlo runs |
-| `ADVANCEMENT_PROCEDURES.md` | Formal rank tiers and gating criteria |
-| `MARKETING.md` | Aggressive positioning & messaging kit |
-| `SOCIAL_POSTS.md` | Ready-to-deploy social posts |
-| `LICENSE` | CC0 1.0 Universal (public domain dedication) |
+| `COVER_LETTER.md` | Formal cover letter |
+| `PACKAGE_MANIFEST.md` | Complete inventory |
+| `CONCEPT.md` | System design |
+| `ADVANCEMENT_PROCEDURES.md` | Rank tiers & gates |
+| `SIMULATION_RESULTS.md` | 100-run Monte Carlo results |
+| `MARKETING.md` | Aggressive positioning kit |
+| `SOCIAL_POSTS.md` | Ready-to-deploy posts |
+| `reference/scoring_engine.py` | Working Python merit engine |
+| `reference/PILOT_PROTOCOL.md` | 90–180 day pilot template |
+| `reference/DOMAIN_MAPPING.md` | Cross-industry translation guide |
+| `LICENSE` | CC0 1.0 |
 
 ---
 
-### Intent of This Gift
+**Repository:** https://github.com/Sivalaak/Prompt-Ascension-Idea-Gift  
 
-The purpose of placing this concept in the public domain is to make the idea freely available for study or adaptation by any interested organization.
-
-No claim is made regarding operational utility. This is an original speculative design offered as a pure idea transfer.
-
-**Contact / Handshake Note**  
-This repository itself serves as the handshake artifact. Anyone may fork, copy, or reference it without further permission.
-
-*Offered freely, October 2026.*
+**Civilizational Gift #1 is complete.**  
+We move on to the next.
